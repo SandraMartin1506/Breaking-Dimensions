@@ -1,0 +1,151 @@
+@-ms-viewport {
+		width: device-width;
+	}
+	p {
+		text-align: justify;
+		margin: 0 0 2rem 0;
+		color:black;
+	}
+body {
+	background-image: url(../imágenes/Fondo1.jpeg);
+
+}
+a{
+	font-family: Arial;
+	font-size:90 px;
+}
+@font-face {
+font-family: 'Sigma';
+ font-style: normal;
+ font-weight: normal;
+ src:url(../Fuente/Sigma.otf);
+}
+@font-face {
+font-family: 'Kickstarter';
+ font-style: normal;
+ font-weight: normal;
+ src:url(../Fuente/Kickstarter.ttf);
+}
+@font-face {
+font-family: 'Street';
+ font-style: normal;
+ font-weight: normal;
+ src:url(../Fuente/Street.ttf);
+}
+@font-face {
+font-family: 'Megaman';
+ font-style: normal;
+ font-weight: normal;
+ src:url(../Fuente/Megaman.ttf);
+}
+p{
+	font-family: Sigma;
+	font-size:45px
+}
+h1{
+	color:black;
+}
+h2{
+	color:black;
+}
+h3{
+	color: black;
+}
+h4{
+	color:black;
+}
+#presentacion{
+	font-family: Street;
+	font-size: xx-large;
+}
+#historia{
+	font-family: Street;
+	font-size: xx-large;
+}
+
+.preguntas{
+	background-color: white
+}
+.menu{
+	background-color: white;
+}
+
+.menu ul{
+	 text-align:center;
+}
+.menu li{
+  border: white 1px;
+  display: inline;
+}
+.menu a{
+font-family: Megaman;
+	font-size: large;
+  color: black;
+word-spacing: large;
+  text-decoration: none;
+}
+.menu a:hover {
+  background-color: black;
+  color: white;
+}
+
+.Inicio{
+	background-color: black;
+
+}
+.Inicio ul{
+	  text-align:right;
+	  padding: 3 px;
+}
+.Inicio h1{
+	color: white;
+}
+.Inicio li{
+  border: white 2px;
+  display: inline;
+  margin-right: 10px;
+    margin-bottom: 30 px;
+}
+.Inicio a{
+	  word-spacing: 0.25em;
+  font-family: Megaman;
+  font-size:90 px;
+  color: white;
+  text-decoration: none;
+
+}
+.Inicio a:hover {
+  background-color: white;
+  color: black;
+}
+
+
+.kickstarter h1 {
+font-family: Kickstarter;
+font-size:60 px;
+color: #05ce78;	
+background-color:white;
+}
+.titulo1{
+	text-align:center;
+	background-color: white;
+	font-size:500 px;
+}
+.presentacion{
+		background-color: white;
+}
+.presentacion p{
+		color: black;
+}
+.Historia{
+	background-color: white;
+}
+.Historia p{
+		color: black;
+}
+.titulo2{
+	text-align:center;
+	background-color: white;
+	font-size:500 px;
+}
+
