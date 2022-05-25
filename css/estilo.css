@@ -184,6 +184,12 @@ background-color:white;
 		text-align:center;
 		 margin-right: 30px;
 	    margin-left: 50px;
+		font-family: Sigma;
+}
+.contacto a{
+	color:blue;
+	font-family: Sigma;
+	font-size: xxx-large;
 }
 .Redes{
 		background-image: url(../imágenes/Fondo3rred.jpeg);
@@ -193,6 +199,12 @@ background-color:white;
 	text-align:center;
 	 margin-right: 30px;
 	    margin-left: 30px;
+		
+}
+.Redes a{
+	color:blue;
+	font-family: Sigma;
+	font-size: xxx-large;
 }
 .about h1{
 			background-image: url(../imágenes/Fondo3red.jpeg);
